@@ -8,6 +8,7 @@ The primary goal of this file is to demonstrate a simple python program to class
 @author: jrr
 @author: rk
 """
+from datetime import datetime
 
 def classifyTriangle(a,b,c):
     """
@@ -55,3 +56,11 @@ def classifyTriangle(a,b,c):
         return 'Scalene'
     else:
         return 'Isosceles'
+    
+def my_brand(assignment):
+    print("=*=*=*= Rishabh Dhadda =*=*=*=")
+    print("=*=*=*= Course 2024F-SSW567-WS =*=*=*= ")
+    print("=*=*=*=", assignment, "=*=*=*= ")
+    print("=*=*=*=", datetime.now() ,"=*=*=*= ")
+
+my_brand("HW2a - Testing a legacy program and reporting on testing results")
