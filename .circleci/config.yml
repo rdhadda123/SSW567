@@ -10,9 +10,12 @@ jobs:
     steps:
       - checkout
       - run:
+          name: List files
+          command: ls -R
+      - run:
           command:  |
             pip install pytest
-            pytest --junitxml=test-results/junit.xml /Triangle567/TestTriangle.py
+            pytest --junitxml=test-results/junit.xml Triangle567/TestTriangle.py
       - store_test_results:
           path: test-results
 
