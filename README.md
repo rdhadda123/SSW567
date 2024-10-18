@@ -7,6 +7,6 @@ Assignment 2b Badge:
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/rdhadda123/SSW567/tree/main.svg?style=svg&circle-token=CCIPRJ_237wJzGKhHBTv6ZA81H9Av_235a35774b8bbbf21a04ee65edf676d0c61339d5)](https://dl.circleci.com/status-badge/redirect/gh/rdhadda123/SSW567/tree/main)
 
-Assignment 4b Badge:
+Assignment 4a Badge:
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/rdhadda123/SSW567/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rdhadda123/SSW567/tree/main)
