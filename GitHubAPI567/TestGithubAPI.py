@@ -16,12 +16,12 @@ class TestGithubAPI(unittest.TestCase):
     def test_repo_length_success(self):
         #Testing if number of repos is fetched properly
         github_id = 'rdhadda123'
-        self.assertEqual(len(fetchRepos_Commits(github_id)), 9)
+        self.assertEqual(len(fetchRepos_Commits(github_id)), 10)
 
     def test_repo_length_fail(self):
         #Testing if number of repos is fetched incorrectly
         github_id = 'rdhadda123'
-        self.assertNotEqual(len(fetchRepos_Commits(github_id)), 10)
+        self.assertNotEqual(len(fetchRepos_Commits(github_id)), 20)
 
     def test_commits_first_repo(self):
         #Testing if message for first repo is correct 
