@@ -10,3 +10,6 @@ Assignment 2b Badge:
 Assignment 4a Badge:
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/rdhadda123/SSW567/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rdhadda123/SSW567/tree/main)
+
+Assignment 5a Badge:
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/rdhadda123/SSW567/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/rdhadda123/SSW567/tree/main)
